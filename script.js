@@ -2,14 +2,12 @@ const button = document.getElementById("randomButton");
 const result = document.getElementById("result");
 
 const things = [
-    "🐸 You have been visited by a frog.",
-    "💀 You probably shouldn't have pressed that.",
-    "🍕 You deserve pizza.",
-    "🦆 A duck is judging you.",
-    "🚀 You have been launched into space.",
-    "🎉 CONGRATULATIONS! You did absolutely nothing.",
-    "🧙 You are now legally a wizard.",
-    "🌳 You should go touch some grass."
+    "opps going kind compliation",
+    "acouscous",
+    "Mr criddle made this beat! (the crups helped)",
+    "new album criddle files dropping soon",
+    "mr criddle is the goat",
+    "pov i pull up with the crups"
 ];
 
 button.addEventListener("click", function() {
